@@ -7,4 +7,4 @@ Commands:
 
 docker build -t name . 
 
-docker run -p 3306:3306 -p 8000:8000 name 
+docker run -p 3036:3036 -p 8000:8000 name 
