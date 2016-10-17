@@ -18,7 +18,7 @@ RUN cd laravel5-example/ && composer install &&  php artisan key:generate
 COPY entrypoint.sh /usr/local/bin/
 
 ##Expose the ports
-EXPOSE 3306
+EXPOSE 3036
 EXPOSE 8000
 
 
